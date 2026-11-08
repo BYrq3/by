@@ -84,6 +84,6 @@ OpenHUTB 的其他非主要平台包括 :
 通过以上方式，使社区能够更加专注于核心使命。
 ___
 
-如果对文档中的任何问题可以在 [本文档的源码仓库](https://github.com/OpenHUTB/templte) 中的 [问题](https://github.com/OpenHUTB/templte/issues) 页面讨论或者提交 [拉取请求](https://github.com/OpenHUTB/.github/blob/master/CONTRIBUTING.md) 直接修改文档。
+如果对文档中的任何问题可以在 [本文档的源码仓库](https://github.com/OpenHUTB/templte) 中的 [问题](https://github.com/OpenHUTB/templte/issues) 页面讨论或者提交 [拉取请求](https://github.com/OpenHUTB/.github/blob/master/CONTRIBUTING.md) 直接修改文档。                   
 
 本手册持续更新中
