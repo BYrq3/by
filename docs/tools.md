@@ -132,6 +132,8 @@
 
 * [JupyterLab](https://github.com/jupyterlab/jupyterlab) - 交互式代码笔记，数据分析
 
+* [CVAT](https://www.cvat.ai) - 面向计算机视觉的开源图像与视频标注平台，支持团队协作和 AI 辅助标注（[源码](https://github.com/cvat-ai/cvat)）。
+
 ## 常见
 
 * [Chromium](https://github.com/chromium/chromium) - Chromium 浏览器
